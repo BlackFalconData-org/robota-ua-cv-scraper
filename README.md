@@ -8,6 +8,7 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua candid
 
 ## Key features
 
+
 **Incremental mode** — Only get new or changed listings since your last run. Content hash per listing — no duplicates, no re-processing.
 
 **Change classification** — Track unchanged, expired, cross-run repost detection across runs. Build audit trails of how listings evolve over time.
@@ -23,6 +24,7 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua candid
 ---
 
 ## Use cases
+
 
 **Data pipeline automation**
 Integrate with your ETL pipeline to collect structured listings from robota.ua on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
@@ -223,6 +225,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
